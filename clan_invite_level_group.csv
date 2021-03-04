@@ -13,4 +13,5 @@ level_group_id,team_level_from,team_level_to
 12,66,70
 13,71,75
 14,76,80
-15,81,-1
+15,81,85
+16,86,-1
