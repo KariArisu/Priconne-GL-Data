@@ -2,11 +2,12 @@ tbl,idx,stat
 event_boss_treasure_content,,16
 hatsune_map,,2
 stamp,,32
-campaign_schedule,,14
-gacha_exchange_lineup,,14
+campaign_freegacha_data,,1
+campaign_schedule,,18
+gacha_exchange_lineup,,17
 clan_cost_group,,3
 hatsune_quest,hatsune_quest_0_event_id,40 20
-clan_battle_boss_fix_reward,,20
+clan_battle_boss_fix_reward,,30
 odds_name_data,,7
 grand_arena_daily_rank_reward,,40
 event_gacha_data,,2
@@ -21,22 +22,23 @@ room_emotion_icon,,18
 dungeon_quest_data,,27
 room_chat_formation,,5
 album_voice_list,album_voice_list_0_unit_id,3182 37
-room_unit_comments,room_unit_comments_0_unit_id,2130 24
-room_unit_comments,sqlite_autoindex_room_unit_comments_1,2130 24 8 2 1
+room_unit_comments,room_unit_comments_0_unit_id,2152 24
+room_unit_comments,sqlite_autoindex_room_unit_comments_1,2152 24 8 2 1
+campaign_freegacha,,1
 room_item_announcement,,1
 room_setup,,245
 hatsune_description,,6
-room_item,,165
-album_production_list,album_production_list_0_unit_id,376 8
+room_item,,175
+album_production_list,album_production_list_0_unit_id,384 8
 clan_grade,,13
-unit_motion_list,,47
-clan_battle_schedule,,2
+unit_motion_list,,48
+clan_battle_schedule,,3
 guild,,15
 event_enemy_parameter,,3764
 hatsune_stationary_mission_data,,60
 shop_static_price_group,,5
-clan_battle_map_data,,4
-clan_invite_level_group,,17
+clan_battle_map_data,,6
+clan_invite_level_group,,18
 room_chat_scenario,room_chat_scenario_0_id,274 11
 room_chat_scenario,sqlite_autoindex_room_chat_scenario_1,274 11 1
 unit_background,,58
@@ -44,112 +46,112 @@ dungeon_area_data,,3
 unit_status_coefficient,,1
 event_navi_comment,,47
 navi_comment,,21
-unlock_unit_condition,,47
+unlock_unit_condition,,48
 event_wave_group_data,,4518
 hatsune_unlock_story_condition,,16
 room_effect,,11
-unit_promotion_status,sqlite_autoindex_unit_promotion_status_1,364 7 1
+unit_promotion_status,sqlite_autoindex_unit_promotion_status_1,424 8 1
 fix_lineup_group_set,fix_lineup_group_set_0_team_level_from_1_team_level_to,19 4 3
 fix_lineup_group_set,sqlite_autoindex_fix_lineup_group_set_1,19 4 1 1
-unit_rarity,unit_rarity_0_unit_material_id,315 7
-unit_rarity,unit_rarity_0_unit_id,315 5
-unit_rarity,sqlite_autoindex_unit_rarity_1,315 5 1
-unit_comments,unit_comments_0_unit_id_1_use_type,470 5 5
-unit_comments,unit_comments_0_unit_id,470 5
+unit_rarity,unit_rarity_0_unit_material_id,320 7
+unit_rarity,unit_rarity_0_unit_id,320 5
+unit_rarity,sqlite_autoindex_unit_rarity_1,320 5 1
+unit_comments,unit_comments_0_unit_id_1_use_type,480 5 5
+unit_comments,unit_comments_0_unit_id,480 5
 hatsune_boss_condition,,4
-unit_attack_pattern,,256
+unit_attack_pattern,,270
 event_story_detail,event_story_detail_0_story_group_id,16 8
-clan_battle_period_rank_reward,,26
-story_data,,73
-skill_action,,1278
+clan_battle_period_rank_reward,,39
+story_data,,75
+skill_action,,1286
 clan_battle_odds_data,clan_battle_odds_data_0_odds_group_id,12 3
 clan_battle_odds_data,sqlite_autoindex_clan_battle_odds_data_1,12 3 1 1
-clan_battle_period,clan_battle_period_0_clan_battle_id,2 1
-clan_battle_period,sqlite_autoindex_clan_battle_period_1,2 1 1
+clan_battle_period,clan_battle_period_0_clan_battle_id,3 1
+clan_battle_period,sqlite_autoindex_clan_battle_period_1,3 1 1
 quest_defeat_notice,,6
 room_character_personality,,78
 room_change,,1
 position_setting,,1
-chara_story_status,,329
+chara_story_status,,336
 bg_data,sqlite_autoindex_bg_data_1,83 1
 hatsune_daily_mission_data,,4
 hatsune_schedule,,2
 content_release_data,,23
 room_release_data,,3
-unit_promotion,unit_promotion_0_unit_id,496 8
-unit_promotion,sqlite_autoindex_unit_promotion_1,496 8 1
+unit_promotion,unit_promotion_0_unit_id,567 9
+unit_promotion,sqlite_autoindex_unit_promotion_1,567 9 1
 skip_boss_data,,8
 character_love_rankup_text,,42
 grand_arena_max_rank_reward,,79
 training_quest_data,,10
 unit_profile,,58
-tips,,47
-equipment_enhance_rate,,134
-actual_unit_background,,47
+tips,,48
+equipment_enhance_rate,,143
+actual_unit_background,,48
 login_bonus_data,,2
 story_character_mask,,260
-skill_data,,478
-item_data,,73
+skill_data,,506
+item_data,,74
 arena_daily_rank_reward,,40
-stationary_mission_data,,233
+stationary_mission_data,,259
 equipment_donation,,9
 goldset_data,,70
 event_story_data,event_story_data_0_value,2 1
-quest_data,,165
+quest_data,,185
 arena_max_season_rank_reward,,118
 unit_mypage_pos,,36
-story_detail,,466
+story_detail,,481
 resist_data,,27
-clan_battle_boss_group,clan_battle_boss_group_0_clan_battle_boss_group_id,20 5
-clan_battle_boss_group,sqlite_autoindex_clan_battle_boss_group_1,20 5 1
+clan_battle_boss_group,clan_battle_boss_group_0_clan_battle_boss_group_id,30 5
+clan_battle_boss_group,sqlite_autoindex_clan_battle_boss_group_1,30 5 1
 arena_max_rank_reward,,79
 story_quest_data,,9
-enemy_reward_data,,585
-skill_cost,,88
+enemy_reward_data,,651
+skill_cost,,93
 season_pack,season_pack_0_mission_id,4 2
 hatsune_mission_reward_data,hatsune_mission_reward_data_0_mission_reward_id,104 2
-unit_enemy_data,,136
+unit_enemy_data,,148
 visual_customize,,3
-experience_team,,89
+experience_team,,94
 equipment_enhance_data,sqlite_autoindex_equipment_enhance_data_1,14 4 1
 event_boss_treasure_box,,4
 hatsune_item,,2
 banner,,42
 worldmap,,2
-gacha_data,,19
-room_item_detail,room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2,201 201 201
-room_item_detail,room_item_detail_0_lvup_trigger_type_1_lvup_trigger_id,201 101 101
-room_item_detail,sqlite_autoindex_room_item_detail_1,201 2 1
+gacha_data,,22
+room_item_detail,room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2,211 211 211
+room_item_detail,room_item_detail_0_lvup_trigger_type_1_lvup_trigger_id,211 106 106
+room_item_detail,sqlite_autoindex_room_item_detail_1,211 2 1
 event_introduction,,2
 unlock_skill_data,,4
 ailment_data,,20
-quest_area_data,,22
+quest_area_data,,24
 event_bg_data,,1
-equipment_craft,,96
-mission_reward_data,mission_reward_data_0_mission_reward_id,77 2
-quest_reward_data,,229
-goldset_data_teamlevel,,88
+equipment_craft,,105
+mission_reward_data,mission_reward_data_0_mission_reward_id,79 2
+quest_reward_data,,249
+goldset_data_teamlevel,,93
 unit_data,,80
-notif_data,notif_data_0_unit_id,282 6
-notif_data,sqlite_autoindex_notif_data_1,282 6 1
+notif_data,notif_data_0_unit_id,288 6
+notif_data,sqlite_autoindex_notif_data_1,288 6 1
 room_chat_info,,25
-unit_skill_data,,202
-skip_monster_data,,215
-experience_unit,,89
+unit_skill_data,,215
+skip_monster_data,,235
+experience_unit,,94
 reward_collect_guide,,426
 arena_defence_reward,,1
 love_chara,,12
 daily_mission_data,,14
 hatsune_boss,,4
 gift_message,,61
-enemy_parameter,,1329
+enemy_parameter,,1468
 hatsune_quest_area,hatsune_quest_area_0_event_id,4 2
 login_bonus_detail,login_bonus_detail_0_login_bonus_id_1_count,35 18 2
-unit_introduction,unit_introduction_0_gacha_id,6 1
-equipment_data,,229
-quest_condition_data,,165
-clan_battle_boss_damage_rank,clan_battle_boss_damage_rank_0_damage_rank_id,80 4
-clan_battle_boss_damage_rank,sqlite_autoindex_clan_battle_boss_damage_rank_1,80 4 1 1
-clan_battle_boss_data,,10
+unit_introduction,unit_introduction_0_gacha_id,7 1
+equipment_data,,247
+quest_condition_data,,185
+clan_battle_boss_damage_rank,clan_battle_boss_damage_rank_0_damage_rank_id,120 4
+clan_battle_boss_damage_rank,sqlite_autoindex_clan_battle_boss_damage_rank_1,120 4 1 1
+clan_battle_boss_data,,15
 chara_identity,,77
-wave_group_data,,593
+wave_group_data,,663
