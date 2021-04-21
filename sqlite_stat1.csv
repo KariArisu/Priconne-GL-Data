@@ -3,7 +3,7 @@ event_boss_treasure_content,,16
 hatsune_map,,2
 stamp,,32
 campaign_freegacha_data,,1
-campaign_schedule,,18
+campaign_schedule,,19
 gacha_exchange_lineup,,17
 clan_cost_group,,3
 hatsune_quest,hatsune_quest_0_event_id,40 20
@@ -75,7 +75,7 @@ position_setting,,1
 chara_story_status,,336
 bg_data,sqlite_autoindex_bg_data_1,83 1
 hatsune_daily_mission_data,,4
-hatsune_schedule,,2
+hatsune_schedule,,3
 content_release_data,,23
 room_release_data,,3
 unit_promotion,unit_promotion_0_unit_id,567 9
@@ -96,7 +96,7 @@ arena_daily_rank_reward,,40
 stationary_mission_data,,259
 equipment_donation,,9
 goldset_data,,70
-event_story_data,event_story_data_0_value,2 1
+event_story_data,event_story_data_0_value,3 1
 quest_data,,185
 arena_max_season_rank_reward,,118
 unit_mypage_pos,,36
@@ -122,7 +122,7 @@ gacha_data,,22
 room_item_detail,room_item_detail_0_lvup_trigger_type_2_1_lvup_trigger_id_2,211 211 211
 room_item_detail,room_item_detail_0_lvup_trigger_type_1_lvup_trigger_id,211 106 106
 room_item_detail,sqlite_autoindex_room_item_detail_1,211 2 1
-event_introduction,,2
+event_introduction,,3
 unlock_skill_data,,4
 ailment_data,,20
 quest_area_data,,24
@@ -143,7 +143,7 @@ arena_defence_reward,,1
 love_chara,,12
 daily_mission_data,,14
 hatsune_boss,,4
-gift_message,,61
+gift_message,,62
 enemy_parameter,,1468
 hatsune_quest_area,hatsune_quest_area_0_event_id,4 2
 login_bonus_detail,login_bonus_detail_0_login_bonus_id_1_count,35 18 2
