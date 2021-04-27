@@ -2151,3 +2151,25 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 2278,101501,3,5,1,0,1,I'll read to the children in here when it's cold outside. ♪,0
 2280,101501,3,7,1,0,1,This is delicious! ♪ It would make for a lovely picnic.,0
 2281,101501,3,8,1,0,1,"Oh, how nice! A special on how to read aloud to others. ♪",0
+2283,104401,1,1,1,0,1,"I will conquer the world, starting with this room!",0
+2284,104401,1,2,1,0,1,A stronghold such as this is a necessity.,0
+2285,104401,1,3,1,0,1,"My minions' property is my property... Thus, this room belongs to me!",0
+2286,104401,1,4,1,0,1,It appears the world has changed greatly during my long slumber.,0
+2287,104401,1,5,1,0,1,"What is all this noise? Honestly, the youth of today...",0
+2288,104401,1,101,4,0,1,"Ever since he arrived, my heartbeat has been racing... What manner of illness is this?",0
+2289,104401,1,102,8,0,1,"Where have you been, my minion? I shall permit you to see to my needs.",0
+2290,104401,2,1,1,0,1,"Soon enough, the world will be mine. Heheh. I look forward to that day.",0
+2291,104401,2,2,1,0,1,My minion! Do not stray too far from me! I do not wish to become a child!,0
+2292,104401,2,3,1,0,1,I demand tomato juice! The juice of other vegetables will not do!,0
+2293,104401,2,4,1,0,1,A mosquito bit me! How dare it drain blood from me?!,0
+2294,104401,2,101,4,0,1,Don't pat me on the head! Must you treat me like a child even in this form?!,0
+2295,104401,2,102,8,0,1,"If you so desired, I would be willing to grant you half of this world.",0
+2296,104401,2,1,1,1,1,"Early to rise, I see. I should expect no less from my minion.",0
+2297,104401,2,2,1,2,1,The sun disagrees with me... Thus I will spend my time in this chamber.,0
+2298,104401,2,3,1,3,1,"Ah, the darkness of night! These hours belong to our kind.",0
+2300,104401,3,2,1,0,1,This is very comfortable. I shall take it for my throne.,0
+2301,104401,3,3,1,0,1,How adorable. I shall welcome you as my new minion.,0
+2302,104401,3,4,1,0,1,"This feels wonderful indeed. Whoever made it, I compliment them.",0
+2303,104401,3,5,1,0,1,Such warmth... It purifies the body and soul.,0
+2305,104401,3,7,1,0,1,"A vampire has no need for such sustenance...\nMmm, delicious!",0
+2306,104401,3,8,1,0,1,Could these records hold the secret to maintaining my adult form?,0
