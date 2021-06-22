@@ -2070,7 +2070,7 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 2187,102601,1,5,1,0,1,I should get stuff delivered here instead of Elizabeth Park! It'd be way quicker!,0
 2188,102601,1,101,4,0,1,"Bought some sweet buns, so I guess I'll share a few with him.",0
 2189,102601,1,102,8,0,1,Nothing would make me happier than lazing around all day with him.,0
-2190,102601,2,1,1,0,1,Let's play a game while munching on some acorns! ,0
+2190,102601,2,1,1,0,1,Let's play a game while munching on some acorns!,0
 2191,102601,2,2,1,0,1,"Hey, I wanna lie down, so can you be my pillow? You're so warm.",0
 2192,102601,2,3,1,0,1,I'll give you some acorns if you buy me a sweet bun!,0
 2193,102601,2,4,1,0,1,"Ugh... I'm sooo tired! Carry me, pleeease!",0
@@ -2173,3 +2173,97 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 2303,104401,3,5,1,0,1,Such warmth... It purifies the body and soul.,0
 2305,104401,3,7,1,0,1,"A vampire has no need for such sustenance...\nMmm, delicious!",0
 2306,104401,3,8,1,0,1,Could these records hold the secret to maintaining my adult form?,0
+2308,105401,1,1,1,0,1,"All these different people, wearing so many kinds of different outfits...\nIt's all eye candy to me! ♪",0
+2309,105401,1,2,1,0,1,"Oh, what should I do for Rei's new outfit?\nI can't decide on a style!",0
+2310,105401,1,3,1,0,1,I should tidy up these seams a little before I forget!,0
+2311,105401,1,4,1,0,1,"Let's see, what are her measurements like...?\nOho, how interesting! ♪",0
+2312,105401,1,5,1,0,1,"So for Nozomi's outfit,\nI'll do this, and then for Chika's...",0
+2313,105401,1,101,4,0,1,"Me, an idol... It still doesn't feel real, but I'll give it my best shot.",0
+2314,105401,1,102,8,0,1,I honestly never thought I'd actually become an idol myself.,0
+2315,105401,2,1,1,0,1,*yawn* Can I help you?\nI'm pretty worn out from all my tailoring work...,0
+2316,105401,2,2,1,0,1,"Ah...! Your clothes are fraying again! Honestly, you're so hopeless.",0
+2317,105401,2,3,1,0,1,Aha! I just came up with a stunning new design!,0
+2318,105401,2,4,1,0,1,Got nothing to do?\nThen why don't you help me with my work?,0
+2319,105401,2,101,4,0,1,What's up?\nAre you in need of some new clothes?,0
+2320,105401,2,102,8,0,1,"Thanks to you, I have time to focus on Carmina, too!",0
+2321,105401,2,1,1,1,1,"Good morning... Ugh, why does there have to be a morning every day?",0
+2322,105401,2,2,1,2,1,"I'm getting hungry.\nHave you eaten,\nMr. Knight?",0
+2323,105401,2,3,1,3,1,Am I the only one who finds it easier to get work done at night?,0
+2325,105401,3,2,1,0,1,"This soft, fluffy texture... Must be made from some quality materials.",0
+2326,105401,3,3,1,0,1,"What a cute little thing.\nOoh, I know! I should make a plushie of Rei!",0
+2327,105401,3,4,1,0,1,It's moments like these that you gotta relax and clear your mind. ♪,0
+2328,105401,3,5,1,0,1,Clothes with flames would look cool... But the materials would be tricky.,0
+2330,105401,3,7,1,0,1,You can't do any work\non an empty stomach! Stamina is money!,0
+2331,105401,3,8,1,0,1,I'd like to make a book of all my designs someday...,0
+2333,107501,1,1,1,0,1,I might just go get me some more fish. ♪,0
+2334,107501,1,2,1,0,1,I bet everyone's starting to get hungry about now!,0
+2335,107501,1,3,1,0,1,No need to worry about getting sunburned here!,0
+2336,107501,1,4,1,0,1,"My poor, empty stomach...! It requires seafood, stat!",0
+2337,107501,1,5,1,0,1,Eating and swimming are two of my specialties!,0
+2338,107501,1,101,4,0,1,Taking a stroll along the beach with him sounds so nice...,0
+2339,107501,1,102,8,0,1,I'll be so happy if he says something nice about my swimsuit.,0
+2340,107501,2,1,1,0,1,How about we skip the fishing and dive right in next time?,0
+2341,107501,2,2,1,0,1,I'm actually a bit nervous letting guys see me in this.,0
+2342,107501,2,3,1,0,1,"I'd love to take a trip to the beach with everyone here, too!",0
+2343,107501,2,4,1,0,1,Lemme pick out your swimsuit for you!,0
+2344,107501,2,101,4,0,1,I'll help you out with swimming practice! We can take it one stroke at a time. ♪,0
+2345,107501,2,102,8,0,1,Is this what you're into? I'll wear it whenever you want if so. ♪,0
+2346,107501,2,1,1,1,1,There's just something so lovely about mornings on the beach!,0
+2347,107501,2,2,1,2,1,How does a seafood barbecue this afternoon sound?,0
+2348,107501,2,3,1,3,1,The starry night at the beach is a sight worth seeing! So let's get going!,0
+2350,107501,3,2,1,0,1,I think I need a little break from swimming.,0
+2351,107501,3,3,1,0,1,"I'd love to see you in a cute swimsuit, too.",0
+2352,107501,3,4,1,0,1,Sure does feel like I'm at a resort.,0
+2353,107501,3,5,1,0,1,Phew! Time to warm myself up after a good swim.,0
+2355,107501,3,7,1,0,1,Delicious! Wish I could take this with me while I'm swimming!,0
+2356,107501,3,8,1,0,1,A book with all sorts of tropical fruit... *drool*,0
+2358,107501,3,10,1,0,1,"Wow! ♪ Looks deli— Err, so cute!",0
+2359,107501,3,11,1,0,1,It's so big... I wanna eat it. I really wanna eat it!,0
+2360,107601,1,1,1,0,1,It feels a little strange\nto wear an outfit of this nature indoors...,0
+2361,107601,1,2,1,0,1,"My lord, I shall make you\na special dessert from tropical fruits.",0
+2362,107601,1,3,1,0,1,"Since I have this swimsuit now, we should visit the beach from time to time.",0
+2363,107601,1,4,1,0,1,The creatures in the sea were just as adorable as those in the forest...,0
+2364,107601,1,5,1,0,1,"Even indoors, I can still practice my front crawl technique.",0
+2365,107601,1,101,4,0,1,My lord said that this swimsuit suits me... Eheheh... ♪,0
+2366,107601,1,102,8,0,1,"Will my lord like it if I perform my duties in this swimsuit, I wonder?",0
+2367,107601,2,1,1,0,1,"If you are tired, you can always rest your head on my lap.",0
+2368,107601,2,2,1,0,1,"My lord, I will give you a little money to spend at the beach cafe.",0
+2369,107601,2,3,1,0,1,The ocean has a beauty quite distinct from the forest's charms.,0
+2370,107601,2,4,1,0,1,"This hair accessory?\nThe flowers are artificial, so the seawater will not do them any harm.",0
+2371,107601,2,101,4,0,1,"If I wear this swimsuit to bed, we will be able to feel one another's warmth more closely.",0
+2372,107601,2,102,8,0,1,"I am glad I could share my first trip to the beach with you, my lord.",0
+2373,107601,2,1,1,1,1,"Good morning, my lord.\nI am fully prepared to go swimming.",0
+2374,107601,2,2,1,2,1,"This afternoon, shall we try our hand at the traditional activity of watermelon splitting?",0
+2375,107601,2,3,1,3,1,The hour is getting late... Shall we talk awhile and listen to the waves?,0
+2377,107601,3,2,1,0,1,Ah... I fear this furniture item is enchanted with a willpower-draining spell...,0
+2378,107601,3,3,1,0,1,Eheh. Would you like to join me for a little swim?,0
+2379,107601,3,4,1,0,1,This scent... I'm sure my lord would love it too.,0
+2380,107601,3,5,1,0,1,"This warmth is lovely...\nI should bring my lord here later, so that we can enjoy it together.",0
+2382,107601,3,7,1,0,1,Somehow food tastes even better after a swim.,0
+2383,107601,3,8,1,0,1,Deep-sea fish are so fascinating... I must tell my lord all about them.,0
+2385,107601,3,10,1,0,1,"This face resembles my lord, somehow...\nIt is most adorable. ♪",0
+2386,107601,3,11,1,0,1,So fluffy and soft...\nIt reminds me of my lord.,0
+2387,107701,1,1,1,0,1,"La la laaa. Cleaning's so fun. ☆ Oh, did you overhear me?",0
+2388,107701,1,2,1,0,1,"Healing magic works wonders on sunburn. Wait, don't run off!",0
+2389,107701,1,3,1,0,1,May today be a klutz-free day!,0
+2390,107701,1,4,1,0,1,Working with customers might just improve my skills as a maid.,0
+2391,107701,1,5,1,0,1,"This swimsuit is handy for work, but I'd still rather not be seen in it.",0
+2392,107701,1,101,4,0,1,I wish there was a spell that let me see into his hear— J-just ignore me.,0
+2393,107701,1,102,8,0,1,Would he be happy if I served him while wearing this?,0
+2394,107701,2,1,1,0,1,I can cool you down with a spell if you're too ho— Oh? You'd rather me not?,0
+2395,107701,2,2,1,0,1,"Did you need something? If not, then how about a little chat? ♪",0
+2396,107701,2,3,1,0,1,"A maid's job never changes, regardless of their outfit!",0
+2397,107701,2,4,1,0,1,Eeek! I almost tripped right over the— Waugh?!,0
+2398,107701,2,101,4,0,1,Do you need something? I'm always willing to help you out.,0
+2399,107701,2,102,8,0,1,My heart pounds like crazy when you look at me while I'm wearing this.,0
+2400,107701,2,1,1,1,1,The heat this morning is killing your motivation? Don't worry! I'll cheer you right up!,0
+2401,107701,2,2,1,2,1,"Feeling hungry? Let's have lunch at the beachside cafe, then. ♪",0
+2402,107701,2,3,1,3,1,Taking a stroll along the beach at night seems nice. But I'd probably trip all over the place...,0
+2404,107701,3,2,1,0,1,"I can do some cleaning while I'm on break. Two birds, one stone!",0
+2405,107701,3,3,1,0,1,"The cleaner it is, the cuter it is! ♪",0
+2406,107701,3,4,1,0,1,What a lovely smell! I'm sure everyone at the orphanage would love it.,0
+2407,107701,3,5,1,0,1,"It's rather hot, isn't it? Oh, silly me! Maids shouldn't be slacking off!",0
+2409,107701,3,7,1,0,1,How can I call myself a maid if I can't cook? *munch* But this is so delicious. ♪,0
+2410,107701,3,8,1,0,1,I was told sales would skyrocket if I worked in a swimsuit... Is that true?,0
+2412,107701,3,10,1,0,1,Ehehe. Take me to a tropical island! ♪,0
+2413,107701,3,11,1,0,1,I almost feel like a mermaid. ♪,0

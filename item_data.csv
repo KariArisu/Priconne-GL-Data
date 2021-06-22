@@ -53,11 +53,15 @@ item_id,item_name,description,promotion_level,item_type,value,price,limit_num,st
 31051,Mitsuki's Memory Shard,A shard of Mitsuki's sealed memories. Collect these items to unleash your characters' hidden power. ,1,11,31051,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
 31052,Lima's Memory Shard,A shard of Lima's sealed memories. Collect these items to unleash your characters' hidden power. ,1,11,31052,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
 31053,Monika's Memory Shard,A shard of Monika's sealed memories. Collect these items to unleash your characters' hidden power. ,1,11,31053,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
+31054,Tsumugi's Memory Shard,A shard of Tsumugi's sealed memories. Collect these items to unleash your characters' hidden power.,1,11,31054,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
 31057,Djeeta's Memory Shard,A shard of Djeeta's sealed memories. Collect these items to unleash your characters' hidden power. ,1,11,31057,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
 31058,Pecorine's Memory Shard,A shard of Pecorine's sealed memories. Collect these items to unleash your characters' hidden power. ,1,11,31058,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
 31059,Kokkoro's Memory Shard,A shard of Kokkoro's sealed memories. Collect these items to unleash your characters' hidden power. ,1,11,31059,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
 31060,Karyl's Memory Shard,A shard of Karyl's sealed memories. Collect these items to unleash your characters' hidden power.,1,11,31060,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
 31063,Arisa's Memory Shard,A shard of Arisa's sealed memories. Collect these items to unleash your characters' hidden power.,1,11,31063,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
+31075,Pecorine (Summer)'s Memory Shard,A shard of Pecorine (Summer)'s sealed memories. Collect these items to unleash your characters' hidden power.,1,11,31075,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
+31076,Kokkoro (Summer)'s Memory Shard,A shard of Kokkoro (Summer)'s sealed memories. Collect these items to unleash your characters' hidden power.,1,11,31076,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
+31077,Suzume (Summer)'s Memory Shard,A shard of Suzume (Summer)'s sealed memories. Collect these items to unleash your characters' hidden power.,1,11,31077,0,9999,2015/12/17 15:00:00,2030/08/01 14:59:59
 50001,Churro Heart,Used in the Guildhouse. Adds 10 character bond points.,1,7,10,200,99999,2015/12/17 15:00:00,2030/08/01 14:59:59
 50002,Apple Pie,Used in the Guildhouse. Adds 20 character bond points.,2,7,20,400,99999,2015/12/17 15:00:00,2030/08/01 14:59:59
 50003,Mixed Berry Cake,Used in the Guildhouse. Adds 30 character bond points.,3,7,30,600,99999,2015/12/17 15:00:00,2030/08/01 14:59:59
@@ -67,6 +71,8 @@ item_id,item_name,description,promotion_level,item_type,value,price,limit_num,st
 60012,Victory Medal,A medal that is awarded as proof you defeated monsters during the event. You can collect and exchange them.,1,13,0,0,9999,2015/12/17 15:00:00,2030/04/24 14:59:59
 60021,Boss Ticket,A ticket that you can obtain during the event. Spend them to participate in boss battles.,1,13,0,0,9999,2015/12/17 15:00:00,2030/04/24 14:59:59
 60022,Victory Medal,A medal that is awarded as proof you defeated monsters during the event. You can collect and exchange them.,1,13,0,0,9999,2015/12/17 15:00:00,2030/04/24 14:59:59
+60031,Boss Ticket,A ticket that you can obtain during the event. Spend them to participate in boss battles.,1,13,0,0,9999,2015/12/17 15:00:00,2030/04/24 14:59:59
+60032,Victory Medal,A medal that is awarded as proof you defeated monsters during the event. You can collect and exchange them.,1,13,0,0,9999,2015/12/17 15:00:00,2030/04/24 14:59:59
 60131,Boss Ticket,A ticket that you can obtain during the event. Spend them to participate in boss battles.,1,13,0,0,9999,2015/12/17 15:00:00,2030/04/24 14:59:59
 90002,Dungeon Coins,A special currency that can only be earned in the dungeon. You can use it at the dungeon shop.,1,12,0,0,999999999,2015/12/17 15:00:00,2030/08/01 14:59:59
 90003,Arena Coins,A special currency that can only be earned in the arena. You can use it at the arena shop.,1,12,0,0,999999999,2015/12/17 15:00:00,2030/08/01 14:59:59

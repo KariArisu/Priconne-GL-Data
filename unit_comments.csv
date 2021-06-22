@@ -439,6 +439,16 @@ id,unit_id,use_type,voice_id,face_id,change_time,change_face,description
 1053008,105331,1,3,1,0.0,1,"You seem sluggish, my lad. Meet me out on the plains at once! It's time to train!"
 1053009,105331,1,4,1,0.0,1,"I'm not a child, but I suppose I look like one to you, right? I'd like to think I don't..."
 1053010,105331,1,5,1,0.0,1,I trust you with my life. Let us fight to our last breath with the pride of soldiers!
+1054001,105401,1,1,1,1.9,5,"Now listen here, Mr. Knight.\nIf you try anything funny with my Rei, I'll make sure you regret it!"
+1054002,105401,1,2,1,2.8,2,I'm going to keep a close eye on you to make sure you don't try anything with Rei!
+1054003,105401,1,3,4,2.0,1,"Oh, just look at your clothes... Come over here a second, and I'll fix them right up for you."
+1054004,105401,1,4,4,4.8,6,"So, um... about you and Rei...\nI'm guessing you do feel something special for...\nN-no, forget it! I said nothing!"
+1054005,105401,1,5,5,6.5,6,Why do you keep being nice to me after I treated you so awfully? Don't tell me... you want me to tie you up again?!
+1054006,105431,1,1,1,0.0,1,"I can handle any number of these monsters, as long as you're here by my side! ...Not that I mean anything weird by that!"
+1054007,105431,1,2,1,0.0,1,"You're getting a little close there. Back off a little, would you?\nUnless you want to become the new outlet for my daily stress!"
+1054008,105431,1,3,1,0.0,1,"If I have any materials left over,\nI guess I could make a little something for you, too.\nLet's see... What would you like?"
+1054009,105431,1,4,1,0.0,1,Have you been... getting along well with Rei as usual?\n...What?! I was just curious!
+1054010,105431,1,5,1,0.0,1,"Tell me, is there anything you need me to help you with?\nJust this once, I'll do it for free!"
 1057001,105701,1,1,1,3.2,2,Let's do our best as fellow skyfarers! Don't hesitate to ask if you ever need anything!
 1057002,105701,1,2,1,3.0,2,"Shall we train together? We'll get better results working together, right?"
 1057003,105701,1,3,1,0.0,1,"Once we have our airship, let's tour the entire continent of Astraea."
@@ -489,3 +499,33 @@ id,unit_id,use_type,voice_id,face_id,change_time,change_face,description
 1063008,106331,1,3,1,0.0,1,There are fairies all over my village! I really wanna show you someday.
 1063009,106331,1,4,1,0.0,1,"Being with you makes me feel so funny inside. Excited, but calm. Relaxed, but nervous."
 1063010,106331,1,5,1,0.0,1,I'm having a lot more fun here than back in the forest. I'm sure it's all thanks to you!
+1075001,107501,1,1,1,2.2,2,I got myself a new swimsuit! Well? Does it suit me?
+1075002,107501,1,2,1,0.0,1,This swimsuit's surprisingly suited for physical activity! I might be able to take a dip in the ocean and fish up some stuff!
+1075003,107501,1,3,2,0.0,2,"Let's play some beach sports, like beach volleyball or beach flags! Don't think I'll go easy on you, though!"
+1075004,107501,1,4,5,4.3,2,"You'll never be able to take your eyes off me while I'm wearing this! Haha, just kidding!"
+1075005,107501,1,5,1,5.0,2,"It'd be a waste not to make the most of this trip now that I've got myself a nice swimsuit. The more fun memories, the better!"
+1075006,107531,1,1,1,0.0,1,"Oof, you got me good! The water's so salty, too! Don't think you'll get away with this, you little scoundrel!"
+1075007,107531,1,2,1,0.0,1,"The calm, blue sea! A gleaming white beach! The radiant sunshine! Plus, a whole load of tasty seafood! If this isn't heaven, then I don't know what is!"
+1075008,107531,1,3,1,0.0,1,"The water here's just so pleasant. Honestly, this has to be the most fulfilling summer of my life!"
+1075009,107531,1,4,1,0.0,1,Ehehe. ♪ Spending time with you at the beach feels so new and exciting! This is what youth is all about!
+1075010,107531,1,5,1,0.0,1,"Don't worry. If my swimsuit gets swept away, I'll just hug you to keep myself nice and hidden!"
+1076001,107601,1,1,1,4.8,5,"Our friends at the Orphanage chose this swimsuit for me...\nDoes it look all right, I wonder?"
+1076002,107601,1,2,1,0.0,1,"My lord, if you would not mind,\nI would like to practice our swimming technique together."
+1076003,107601,1,3,2,0.0,2,"My lord, I have heard tell\nof something known as a ""sandcastle."" Would you help\nme to build one of my own?"
+1076004,107601,1,4,5,0.0,5,"It does embarrass me a little\nto show so much skin...\nI would rather only wear this\nin front of you, my lord."
+1076005,107601,1,5,1,4.2,2,"Could you help me to apply\nthis sunscreen, my lord?\nYou are the only one I can trust\nto care for my skin."
+1076006,107631,1,1,1,0.0,1,"My lord... No matter the location,\nI will always stay by your side. Please do not let go of my hand."
+1076007,107631,1,2,1,0.0,1,"Look, my lord!\nThe fish are so close, I could\nreach out and touch them!\nWhat a truly magical sight..."
+1076008,107631,1,3,1,0.0,1,"If we surrender ourselves to the currents, where might they carry us off to? With you by my side,\nI would not mind finding out."
+1076009,107631,1,4,1,0.0,1,"I hope the two of us can always remain together, visiting the same places and admiring the same wondrous sights."
+1076010,107631,1,5,1,0.0,1,"The two of us are alone in these vast ocean waters. At least for this moment, I have you all to myself."
+1077001,107701,1,1,1,2.8,5,Working's just so fun! Even more so when it's with you! ♪
+1077002,107701,1,2,1,2.9,2,"What's that? You'd like to go for a swim during your break time? Feel free! In fact, let me join you!"
+1077003,107701,1,3,4,6.2,2,"I'm too much of a klutz to ever make a proper sand castle, so... Would you mind making one with me? Thank you! ♪"
+1077004,107701,1,4,1,4.2,2,"I'm glad you think my swimsuit looks good on me, but, well... It's kind of embarrassing if you stare at me that much!"
+1077005,107701,1,5,1,4.7,5,"Are you busy right now? If not, then... D-do you mind if I stay by your side for a bit?"
+1077006,107731,1,1,1,0.0,1,"Oh no, I didn't realize there were fireworks here! Please stay back, children! It's dangerous! Wahhh! That's hot!"
+1077007,107731,1,2,1,0.0,1,"The fireworks are pretty, yes, but there are more pressing matters here! Someone help me!"
+1077008,107731,1,3,1,0.0,1,"Doing this with everyone is so much fun! For my next trick, I'll dual wield these fireworks! ♪"
+1077009,107731,1,4,1,0.0,1,I wonder if people see us as a couple like this? Just kidding. Ehehe. ☆
+1077010,107731,1,5,1,0.0,1,"W-would you mind if I offered to serve you, too? W-wait, ignore that! Please!"

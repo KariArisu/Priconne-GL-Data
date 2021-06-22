@@ -8,3 +8,6 @@ id,odds_file,name,icon_type,description
 7,1000220102,Mimi's Memory Shard,99002,
 8,1000320101,Maho's Memory Shard,99002,
 9,1000320102,Kaori's Memory Shard,99002,
+10,1000420101,Kokkoro (Summer)'s Memory Shard,99002,
+11,1000420102,Saren's Memory Shard,99002,
+12,eq_rank_5-8,Rank 5~8 Equipment,99002,Equipment required for characters at ranks 5~8.
