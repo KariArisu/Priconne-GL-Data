@@ -23,6 +23,12 @@ unit_id,notif_type,comment
 100401,4,We've got tons of EXP potions at the guildhouse! I might just end up bigger than you with these!
 100401,5,"There’s a ton of Mana sitting at the guildhouse! You know, I could really use some new prank supplies..."
 100401,6,"The guildhouse is packed to the rafters with items! If you don't come get 'em quick, don't blame me if they disappear! ♪"
+100501,1,Your stamina's full to bursting! And you know what that means—it's superhero time!
+100501,2,"Whoa, look at all those skip tickets in your guildhouse! We're set for some adventuring!"
+100501,3,You've got a full stash of stamina in your guildhouse! Let's go defend peace and justice!
+100501,4,Your guildhouse is full of those EXP potions! Just what I need to become a great hero!
+100501,5,Looks like your guildhouse is full of Mana. H-have you thought about buying some cool action figures?!
+100501,6,"Whoa, all the items in your guildhouse are at max capacity! We're as ready as can be for adventure!"
 100601,1,"Hey, big guy, I see your stamina is full again. I was hoping we could go another round or two... ♪"
 100601,2,"Your skip tickets at the guildhouse are all full. Now you and I can do it even more... Battle with enemies, I mean! ♪"
 100601,3,Your stamina at the guildhouse is replenished. Hurry back—I don't think I can wait much longer... ♪
@@ -179,6 +185,11 @@ unit_id,notif_type,comment
 103601,4,Your guildhouse supply is filled up with EXP potions. Heheh... I'm going to grow up and catch you in no time!
 103601,5,Your guildhouse seems to be full of Mana. Huh? You'll buy something for me? That's a very suspicious offer...
 103601,6,"All the supplies in your guildhouse are full to bursting. You'd forgotten all about them, hadn't you?"
+103701,2,Your guildhouse is completely packed with skip tickets. These might come in useful for training.
+103701,3,"Your guildhouse can't hold any more stamina. I guess I should get to work. You're coming too, right?"
+103701,4,Your guildhouse is brimming with EXP potions. Perhaps it's time I honed my sword skills.
+103701,5,Just look at all that Mana in your guildhouse. I'm sure there are some good uses you could put it to.
+103701,6,"You've let a lot of different resources pile up in your guildhouse. Come on, we really ought to take a look."
 103801,1,Our stamina seems to be full again. Maybe we can go checking out bookstores a bit further afield.
 103801,2,"Oh, the skip tickets at the guildhouse are full. Now I can avoid any undue physical exertion in battle."
 103801,3,"It seems you have full stamina at the guildhouse. If I get stronger, maybe I can help everyone, too."
@@ -323,6 +334,12 @@ unit_id,notif_type,comment
 107801,4,"There's tons of EXP potions at the guildhouse! You know, I might just end up getting even stronger!"
 107801,5,"You have a lot of Mana sitting at the guildhouse. Think carefully about how you spend it, okay?"
 107801,6,"Hey, you've got full items at the guildhouse. I thought I'd give you a reminder, since everything's in one ear and out the other with you."
+107901,1,Your stamina's nyice and full! Better get moving if you want to see me in my swimsuit!
+107901,2,"Hey, your guildhouse is full of skip tickets! Let's go hunting for rare items!"
+107901,3,There's a full pot of stamina at your guildhouse! And I'll cook up some taiyaki to give you even more energy!
+107901,4,Your guildhouse can't hold any more EXP potions. Let's go on a summer adventure! Myahahah!
+107901,5,"Look at all the Mana you've generated at the guildhouse! With this much, we can take care of all the monsters on the beach!"
+107901,6,"All the items at your guildhouse are stocked to bursting! If you don't nyeed 'em, I'll take 'em instead!"
 108001,1,You certainly seem full of stamina. Just what you need for some seaside adventures!
 108001,2,I think your skip ticket supply at the guildhouse is full. Let's head out and enjoy the summer sun!
 108001,3,Your guildhouse's stamina supply is full to the brim. I'm sure you'll be able to power through the summer heat now!

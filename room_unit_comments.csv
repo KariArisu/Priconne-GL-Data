@@ -2292,6 +2292,8 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 2434,107801,3,5,1,0,1,"This is so nice and warm. ♪ I was getting a bit cold, too, so even better!",0
 2436,107801,3,7,1,0,1,How come food manages to taste even better after you've exerted yourself? ♪,0
 2437,107801,3,8,1,0,1,They really need to make a book on how to master swimming for people like me.,0
+2439,107801,3,10,1,0,1,I'll control you like I control those monsters! Syke! ♪,0
+2440,107801,3,11,1,0,1,This is the resort life. ♪ Let's take it nice and easy. ♪,0
 2441,108001,1,1,1,0,1,"Ah, the perfect spot to get a little work done!",0
 2442,108001,1,2,1,0,1,You can't battle efficiently if you don't maintain your weapons properly.,0
 2443,108001,1,3,1,0,1,"The better we prepare,\nthe more profits we'll be able to make!",0
@@ -2314,3 +2316,73 @@ id,unit_id,trigger,voice_id,beloved_step,time,face_id,description,insert_word_ty
 2461,108001,3,5,1,0,1,"Ah, just what I needed to warm my body... The cold is a girl's worst enemy.",0
 2463,108001,3,7,1,0,1,"Seaside work is a matter of stamina, so I need to top up on energy!",0
 2464,108001,3,8,1,0,1,Academic work is important too. I need to expand my knowledge...,0
+2466,108001,3,10,1,0,1,"This is like a seaside paradise... Perhaps I can forget about efficiency, just for a little while...",0
+2467,108001,3,11,1,0,1,"Ah, how relaxing...\nIt's as if I've become one with the ocean!",0
+2468,107901,1,1,1,0,1,Time for a break!\nThe salty sea air can be\npretty rough on the body!,0
+2469,107901,1,2,1,0,1,I've gotta find some\nkitty decorations to\nliven up my beach cafe!,0
+2470,107901,1,3,1,0,1,"Seafood is tasty, but\nseawater freaks me out...",0
+2471,107901,1,4,1,0,1,Time for business!\nI'm gonna sell a mountain of tasty taiyaki!,0
+2472,107901,1,5,1,0,1,Can't have a beach trip with nyo swimsuit!\nYou think it suits me?,0
+2473,107901,1,101,4,0,1,"If you ask nicely,\nI wouldn't mind lending you a paw!",0
+2474,107901,1,102,8,0,1,My purr-sonal treasure\nis right here!,0
+2475,107901,2,1,1,0,1,"Myamya?\nYour stare's a little intense there, y'know.",0
+2476,107901,2,2,1,0,1,"From this day forth,\nI nyame you my\ngreatest partner!",0
+2477,107901,2,3,1,0,1,I'm getting ready to open up shop. Did you come over to lend a paw?,0
+2478,107901,2,4,1,0,1,I'm trying to think up a new menu item for the beach cafe...,0
+2479,107901,2,101,4,0,1,You and me together can rake in the number one profits on the beach!,0
+2480,107901,2,102,8,0,1,Being with you makes everything more fun. We oughtta stick together!,0
+2481,107901,2,1,1,1,1,Good meowning!\nFeels like a good day for beachside business!,0
+2482,107901,2,2,1,2,1,My tummy's rumbling...\nI think I'll take a little nibble of this fishy.,0
+2483,107901,2,3,1,3,1,I'm all set for tomorrow.\nI can head out the door on a moment's nyotice!,0
+2485,107901,3,2,1,0,1,"Ooh, this soft and bouncy texture! It's as fluffy as a litter of kittens!",0
+2486,107901,3,3,1,0,1,Myamyahh!\nIsn't this the cutest?!,0
+2487,107901,3,4,1,0,1,This scent...\nI think it could do with a little bit more spice.,0
+2488,107901,3,5,1,0,1,Myahhh...\nSo warm and cozy...,0
+2490,107901,3,7,1,0,1,Gotta make sure my body's ready for anything! Eating a hearty meal builds staminya!,0
+2491,107901,3,8,1,0,1,Hmmm... My nyose is twitching with the scent of treasure!,0
+2493,107901,3,10,1,0,1,"A Sea Drake! The real thing was scary, but this plushie's as cute as a kitten!",0
+2494,107901,3,11,1,0,1,This seashell is a fluffy cushion in disguise!\nI should put some of these outside my stall...,0
+2495,103701,1,1,1,0,1,This place has a different scent from the dojo I'm used to.,0
+2496,103701,1,2,1,0,1,I'm feeling kind of bored... Maybe I should go tease him a little!,0
+2497,103701,1,3,1,0,1,Sometimes I do get the urge to go out and have fun like a normal girl.,0
+2498,103701,1,4,1,0,1,I have to keep my sword in top condition at all times. Who knows when I might need it?,0
+2499,103701,1,5,1,0,1,If only I could get ahead in life a little faster...,0
+2500,103701,1,101,4,0,1,"Welcome home!\nHaha, it's almost like we're a married couple.",0
+2501,103701,1,102,8,0,1,"I'm so embarrassed,\nI can't look you in the eye. This isn't like me at all...",0
+2502,103701,2,1,1,0,1,You know I love to chat. So why don't we talk about something fun?,0
+2503,103701,2,2,1,0,1,"Which do you prefer—\nreal girly-girls, or the more boyish types?",0
+2504,103701,2,3,1,0,1,Almost time for me\nto go out on patrol.\nYou want to join me?,0
+2505,103701,2,4,1,0,1,"Are you looking for attention?\nWell, I wouldn't mind going for a jog together.",0
+2506,103701,2,101,4,0,1,"If we're going for a walk together, you'd better hold my hand.\nHaha, I'm just joking!",0
+2507,103701,2,102,8,0,1,"Hi there, darling! ♪\nAhaha, your face went bright red! And, uh...\nI think mine did, too.",0
+2508,103701,2,1,1,1,1,"I always start my day with some training. I'm used to it now, but it's still tough. Can't let up, though!",0
+2509,103701,2,2,1,2,1,"Wow, I'm hungry after all that training. I can hardly wait for lunch!",0
+2510,103701,2,3,1,3,1,I had a tough day of patrols and training today. I bet you worked hard too!,0
+2512,103701,3,2,1,0,1,It's important to take breaks so you're ready for anything.,0
+2513,103701,3,3,1,0,1,"I've never owned one of these or anything, but...\nit is pretty cute!",0
+2514,103701,3,4,1,0,1,This is like one of my meditation exercises. Ahh... so relaxing!,0
+2515,103701,3,5,1,0,1,"Ahh, that's warm.\nMaybe it's time I took a little break.",0
+2517,103701,3,7,1,0,1,"I always get so hungry after training. Mmmm, that's good!",0
+2518,103701,3,8,1,0,1,Strategy books are only useful if you work hard to put them into practice.,0
+2520,100501,1,1,1,0,1,The blade of justice strikes down evil!\n...Yeah! Nailed it!,0
+2521,100501,1,2,1,0,1,Time to get down to some secret hero training!,0
+2522,100501,1,3,1,0,1,I can't spare any effort if I'm gonna become a real hero of justice!,0
+2523,100501,1,4,1,0,1,One good deed every day! That's the bare minimum for a hero!,0
+2524,100501,1,5,1,0,1,"How d'you like this pose? Pretty cool, right?!",0
+2525,100501,1,101,4,0,1,I-it'd be great if you could tell me I’m doing a good job. Just once in a while...,0
+2526,100501,1,102,8,0,1,"As long as I know you believe in me, there's nothing I can't do!",0
+2527,100501,2,1,1,0,1,Hey there! I'm ready\nto go adventuring\nwhen you are!,0
+2528,100501,2,2,1,0,1,Is something up? ...Ahh! Don't tell me there's an enemy attack incoming?!,0
+2529,100501,2,3,1,0,1,I-it's not like I was hoping you'd pat my head or anything...,0
+2530,100501,2,4,1,0,1,Tora Tiger is the world's greatest superhero! Nothing can defeat him!,0
+2531,100501,2,101,4,0,1,"Let's set our hearts alight with the flames of justice, and annihilate evil!",0
+2532,100501,2,102,8,0,1,I always feel really happy when I'm with you...,0
+2533,100501,2,1,1,1,1,"Hey, you're up early! Ready to do your good deed for the day?",0
+2534,100501,2,2,1,2,1,Let's take a quick break\nto talk about heroes and stuff!,0
+2535,100501,2,3,1,3,1,We should go on a night patrol to make sure the city's at peace!,0
+2537,100501,3,2,1,0,1,Whew...\nEven brave heroes need a good rest sometimes.,0
+2538,100501,3,3,1,0,1,Urghhh... It's too cute!\nSo this is what us heroes are fighting to protect!,0
+2539,100501,3,4,1,0,1,"Hey, what's this smell?\n*sniff*... Whewww...\nI feel full of energy now!",0
+2540,100501,3,5,1,0,1,What a comforting light... It's like the kindness in a true hero's heart!,0
+2542,100501,3,7,1,0,1,"*munch munch munch*' Mmmmm, the energy is flowing through me!",0
+2543,100501,3,8,1,0,1,The tales of Tora Tiger are a roller coaster of laughs and tears! You've gotta check 'em out!,0

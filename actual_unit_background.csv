@@ -3,6 +3,7 @@ unit_id,unit_name,bg_id,face_type
 100231,Yui Kusano,510220,2
 100331,Rei Shijo,510350,2
 100431,Misogi Hodaka,510330,4
+100531,Matsuri Orihara,510010,4
 100631,Akari Kazemiya,510120,8
 100731,Miyako Izumo,510090,4
 100831,Yuki Nijimura,510300,2
@@ -29,6 +30,7 @@ unit_id,unit_name,bg_id,face_type
 103331,Mahiru Noto,510140,4
 103431,Yukari Ayase,510350,2
 103631,Kyoka Hikawa,510090,4
+103731,Tomo Mikuma,510030,3
 103832,Shiori Kashiwazaki,510260,2
 104031,Aoi Futaba,510360,4
 104231,Chika Misumi,510200,4
@@ -53,4 +55,5 @@ unit_id,unit_name,bg_id,face_type
 107631,Kokoro Natsume,510190,4
 107731,Suzume Amano,510190,4
 107831,Kiruya Momochi,510280,2
+107931,Tamaki Miyasaka,510250,2
 108031,Mifuyu Ogami,510250,4
